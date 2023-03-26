@@ -1,0 +1,5 @@
+[run]
+omit =
+    conftest.py
+    cli.py
+    tests/*
